@@ -8,6 +8,7 @@ class MenuLateral extends Component {
         <li>Hola</li>
         <li>Que</li>
         <li>Paso</li>
+        <li>Paso2</li>
       </ul>
     );
   }

@@ -5,7 +5,7 @@ class PieDePagina extends Component {
     return (
       <section>
         <article className="jumbotron">
-          <h1 />
+          <h1>Hola desde el pie</h1>
         </article>
       </section>
     );
